@@ -1,0 +1,45 @@
+.text-category{
+    color: #DF6951;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: 600;
+  }
+  
+  .text-category2{
+    font-weight: 700;
+    text-align: center;
+    color: #181E4B;
+    font-size: 45px;
+    padding-bottom: 20px;
+  }
+  
+  .service-category{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+  
+  .card-img{
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .card-title{
+    text-align: center;
+  }
+  
+  .card{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    border: none !important;
+  }
+  
+  .item-contain{
+    padding: 25px;
+    text-align: left;
+    vertical-align: middle;
+  }
+  

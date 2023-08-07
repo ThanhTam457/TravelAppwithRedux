@@ -1,0 +1,51 @@
+.jumbotron{
+    width: 500px;
+    height: 200px;
+    vertical-align: middle;
+    padding-left: 76px;
+    padding-top: 150px;
+    font-size: larger;
+    margin-top: -630px;
+    margin-bottom: 431px;
+    margin-left: 150px;
+}
+
+.div-in-jumbotron{
+    background-color: #f3f3f39c;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: max-content;
+    border-radius: 10px;
+}
+
+.button-jumbotron{
+    background-color: red;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+}
+
+.div-text-jumbotron{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-right :solid white 1px;
+}
+
+.text-in-jumbotron{
+    color: white;
+    font-size: smaller;
+    padding-left: 10px;
+}
+
+.arrow{
+    position: absolute;
+    bottom: 40rem;
+    left: 15rem;
+}

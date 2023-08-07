@@ -1,0 +1,6 @@
+.promotion-container{
+    background-image: url(../../public/images/promotion-background.png);
+    object-fit: cover;
+    align-items: center;
+    text-align: center;
+}

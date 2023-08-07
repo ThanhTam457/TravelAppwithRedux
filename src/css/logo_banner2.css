@@ -1,0 +1,31 @@
+.banner-container2-1{
+    padding: 20px 0px;
+    margin: 0px;
+    background-image: url(../../public/images/explore-nature.png);
+    object-fit: cover;
+    text-align: center;
+    color: white;
+}
+
+.banner-container2-2{
+    padding: 20px 0px;
+    margin: 0px;
+    background-image: url(../../public/images/explore-cities.png);
+    object-fit: cover;
+    text-align: center;
+    color: white;
+}
+
+.button-banner2{
+    background: transparent;
+    height: 50px;
+    border: solid white 1px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+
+.button-banner2:hover, :focus{
+    background-color: white;
+    color: black;
+}

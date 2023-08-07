@@ -1,0 +1,37 @@
+.jumbotron{
+    width: 500px;
+    height: 200px;
+    vertical-align: middle;
+    padding-left: 76px;
+    padding-top: 150px;
+    font-size: larger;
+    margin-top: -600px;
+    margin-bottom: 401px;
+    text-align: center;
+}
+
+.archive-text{
+    font-family: 'Yesteryear', cursive;
+    font-weight: 350;
+    color: white;
+    font-size: 200px;
+}
+
+.card-hover{
+    color: black;
+    border: 0.5px;
+    border-radius: 10px;
+}
+
+.img-card1{
+    background-image: url(../../public/images/archive1.png);
+    object-fit: cover;
+    height: 200px;
+    padding: 0px 50px;
+    overflow: hidden;
+}
+
+.card-hover :hover{
+    transform: scale(1.025);
+
+}

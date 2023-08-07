@@ -1,0 +1,11 @@
+.middle-banner{
+    background-image: url("../../public/images/item6.png");
+    height: 250px;
+    object-fit: cover;
+    padding: 25px 0px;
+    margin: 25px 0px;
+  }
+  
+  .text-banner{
+    text-align: right;
+  }

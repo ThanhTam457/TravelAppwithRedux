@@ -1,0 +1,26 @@
+.trendy-button{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.trendy-image1{
+    height: 300px;
+    background-image: url(../../public/images/trendy1.png);
+    object-fit: cover;
+}
+
+.trendy-image2{
+    height: 300px;
+    background-image: url(../../public/images/trendy2.png);
+    object-fit: cover;
+}
+
+.trendy-image3{
+    height: 300px;
+    background-image: url(../../public/images/trendy3.png);
+    object-fit: cover;
+}
+
